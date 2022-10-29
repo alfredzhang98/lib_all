@@ -1,0 +1,749 @@
+Modifying modelsim.ini
+
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Compiling package VCOMPONENTS
+-- Loading package VITAL_Primitives
+-- Compiling package VPACKAGE
+-- Compiling package body VPACKAGE
+-- Loading package VPACKAGE
+-- Compiling entity X_AND2B1L
+-- Compiling architecture X_AND2B1L_V of X_AND2B1L
+-- Loading package VPACKAGE
+-- Compiling entity X_AUTOBUF
+-- Compiling architecture X_AUTOBUF_V of X_AUTOBUF
+-- Loading package VCOMPONENTS
+-- Compiling entity X_BSCAN_VIRTEX6
+-- Compiling architecture X_BSCAN_VIRTEX6_V of X_BSCAN_VIRTEX6
+-- Compiling entity X_BUFHCE
+-- Compiling architecture X_BUFHCE_V of X_BUFHCE
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity X_BUFIODQS
+-- Compiling architecture X_BUFIODQS_V of X_BUFIODQS
+-- Compiling entity X_CAPTURE_VIRTEX6
+-- Compiling architecture X_CAPTURE_VIRTEX6_V of X_CAPTURE_VIRTEX6
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity X_DSP48E1
+-- Compiling architecture X_DSP48E1_V of X_DSP48E1
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package VITAL_Timing
+-- Loading package VCOMPONENTS
+-- Loading package VITAL_Primitives
+-- Loading package VPACKAGE
+-- Compiling entity X_EFUSE_USR
+-- Compiling architecture X_EFUSE_USR_V of X_EFUSE_USR
+-- Compiling entity X_FF18_INTERNAL_VHDL
+-- Compiling architecture X_FF18_INTERNAL_VHDL_V of X_FF18_INTERNAL_VHDL
+-- Compiling entity X_FIFO18E1
+-- Compiling architecture X_FIFO18E1_V of X_FIFO18E1
+-- Compiling entity X_FF36_INTERNAL_VHDL
+-- Compiling architecture X_FF36_INTERNAL_VHDL_V of X_FF36_INTERNAL_VHDL
+-- Compiling entity X_FIFO36E1
+-- Compiling architecture X_FIFO36E1_V of X_FIFO36E1
+-- Loading package NUMERIC_STD
+-- Compiling entity X_FRAME_ECC_VIRTEX6
+-- Compiling architecture X_FRAME_ECC_VIRTEX6_V of X_FRAME_ECC_VIRTEX6
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity X_IBUFDS_GTXE1
+-- Compiling architecture X_IBUFDS_GTXE1_V of X_IBUFDS_GTXE1
+-- Compiling entity X_ICAP_VIRTEX6
+-- Compiling architecture X_ICAP_VIRTEX6_V of X_ICAP_VIRTEX6
+-- Compiling entity X_IODELAYE1
+-- Compiling architecture X_IODELAYE1_V of X_IODELAYE1
+-- Compiling entity bscntrl_iserdese1_vhd
+-- Compiling architecture bscntrl_iserdese1_vhd_V of bscntrl_iserdese1_vhd
+-- Compiling entity ice_iserdese1_vhd
+-- Compiling architecture ice_iserdese1_vhd_V of ice_iserdese1_vhd
+-- Compiling entity X_ISERDESE1
+-- Compiling architecture X_ISERDESE1_V of X_ISERDESE1
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Compiling entity X_JTAG_SIM_VIRTEX6
+-- Compiling architecture X_JTAG_SIM_VIRTEX6_V of X_JTAG_SIM_VIRTEX6
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity X_MMCM_ADV
+-- Compiling architecture X_MMCM_ADV_V of X_MMCM_ADV
+-- Compiling entity X_OR2L
+-- Compiling architecture X_OR2L_V of X_OR2L
+-- Compiling entity selfheal_oserdese1_vhd
+-- Compiling architecture selfheal_oserdese1_vhd_V of selfheal_oserdese1_vhd
+-- Compiling entity plg_oserdese1_vhd
+-- Compiling architecture plg_oserdese1_vhd_V of plg_oserdese1_vhd
+-- Compiling entity RANK12D_OSERDESE1_VHD
+-- Compiling architecture RANK12D_OSERDESE1_VHD_V of RANK12D_OSERDESE1_VHD
+-- Compiling entity TRIF_OSERDESE1_VHD
+-- Compiling architecture TRIF_OSERDESE1_VHD_V of TRIF_OSERDESE1_VHD
+-- Compiling entity TXBUFFER_OSERDESE1_VHD
+-- Compiling architecture TXBUFFER_OSERDESE1_VHD_V of TXBUFFER_OSERDESE1_VHD
+-- Compiling entity FIFO_TDPIPE_OSERDESE1_VHD
+-- Compiling architecture FIFO_TDPIPE_OSERDESE1_VHD_V of FIFO_TDPIPE_OSERDESE1_VHD
+-- Compiling entity FIFO_RESET_OSERDESE1_VHD
+-- Compiling architecture FIFO_RESET_OSERDESE1_VHD_V of FIFO_RESET_OSERDESE1_VHD
+-- Compiling entity FIFO_ADDR_OSERDESE1_VHD
+-- Compiling architecture FIFO_ADDR_OSERDESE1_VHD_V of FIFO_ADDR_OSERDESE1_VHD
+-- Compiling entity IODLYCTRL_NPRE_OSERDESE1_VHD
+-- Compiling architecture IODLYCTRL_NPRE_OSERDESE1_VHD_V of IODLYCTRL_NPRE_OSERDESE1_VHD
+-- Compiling entity DOUT_OSERDESE1_VHD
+-- Compiling architecture DOUT_OSERDESE1_VHD_V of DOUT_OSERDESE1_VHD
+-- Compiling entity TOUT_OSERDESE1_VHD
+-- Compiling architecture TOUT_OSERDESE1_VHD_V of TOUT_OSERDESE1_VHD
+-- Compiling entity X_OSERDESE1
+-- Compiling architecture X_OSERDESE1_V of X_OSERDESE1
+-- Loading package std_logic_textio
+-- Compiling entity X_RB18_INTERNAL_VHDL
+-- Compiling architecture X_RB18_INTERNAL_VHDL_V of X_RB18_INTERNAL_VHDL
+-- Compiling entity X_RAMB18E1
+-- Compiling architecture X_RAMB18E1_V of X_RAMB18E1
+-- Compiling entity X_RB36_INTERNAL_VHDL
+-- Compiling architecture X_RB36_INTERNAL_VHDL_V of X_RB36_INTERNAL_VHDL
+-- Compiling entity X_RAMB36E1
+-- Compiling architecture X_RAMB36E1_V of X_RAMB36E1
+-- Compiling entity X_SIM_CONFIG_V6
+-- Compiling architecture X_SIM_CONFIG_V6_V of X_SIM_CONFIG_V6
+-- Compiling entity X_SIM_CONFIG_V6_SERIAL
+-- Compiling architecture X_SIM_CONFIG_V6_SERIAL_V of X_SIM_CONFIG_V6_SERIAL
+-- Compiling entity X_STARTUP_VIRTEX6
+-- Compiling architecture X_STARTUP_VIRTEX6_V of X_STARTUP_VIRTEX6
+-- Compiling entity X_STARTUP_VIRTEX6_SELF_TIMING
+-- Compiling architecture X_STARTUP_VIRTEX6_SELF_TIMING_V of X_STARTUP_VIRTEX6_SELF_TIMING
+-- Compiling entity X_USR_ACCESS_VIRTEX6
+-- Compiling architecture X_USR_ACCESS_VIRTEX6_V of X_USR_ACCESS_VIRTEX6
+-- Compiling entity X_BSCANE2
+-- Compiling architecture X_BSCANE2_V of X_BSCANE2
+-- Compiling entity X_BUFG_LB
+-- Compiling architecture X_BUFG_LB_V of X_BUFG_LB
+-- Compiling entity X_BUFMRCE
+-- Compiling architecture X_BUFMRCE_V of X_BUFMRCE
+-- Compiling entity X_BUFR
+-- Compiling architecture X_BUFR_V of X_BUFR
+-- Compiling entity X_CAPTUREE2
+-- Compiling architecture X_CAPTUREE2_V of X_CAPTUREE2
+-- Compiling entity X_FRAME_ECCE2
+-- Compiling architecture X_FRAME_ECCE2_V of X_FRAME_ECCE2
+-- Compiling entity X_IBUFDS_DIFF_OUT_IBUFDISABLE
+-- Compiling architecture X_IBUFDS_DIFF_OUT_IBUFDISABLE_V of X_IBUFDS_DIFF_OUT_IBUFDISABLE
+-- Compiling entity X_IBUFDS_GTE2
+-- Compiling architecture X_IBUFDS_GTE2_V of X_IBUFDS_GTE2
+-- Compiling entity X_IBUFDS_IBUFDISABLE
+-- Compiling architecture X_IBUFDS_IBUFDISABLE_V of X_IBUFDS_IBUFDISABLE
+-- Compiling entity X_IBUFDS_IBUFDISABLE_TPWRGT
+-- Compiling architecture X_IBUFDS_IBUFDISABLE_TPWRGT_V of X_IBUFDS_IBUFDISABLE_TPWRGT
+-- Compiling entity X_IBUFDS_INTERMDISABLE
+-- Compiling architecture X_IBUFDS_INTERMDISABLE_V of X_IBUFDS_INTERMDISABLE
+-- Compiling entity X_IBUFDS_INTERMDISABLE_TPWRGT
+-- Compiling architecture X_IBUFDS_INTERMDISABLE_TPWRGT_V of X_IBUFDS_INTERMDISABLE_TPWRGT
+-- Compiling entity X_IBUF_IBUFDISABLE
+-- Compiling architecture X_IBUF_IBUFDISABLE_V of X_IBUF_IBUFDISABLE
+-- Compiling entity X_IBUF_IBUFDISABLE_TPWRGT
+-- Compiling architecture X_IBUF_IBUFDISABLE_TPWRGT_V of X_IBUF_IBUFDISABLE_TPWRGT
+-- Compiling entity X_IBUF_INTERMDISABLE
+-- Compiling architecture X_IBUF_INTERMDISABLE_V of X_IBUF_INTERMDISABLE
+-- Compiling entity X_IBUF_INTERMDISABLE_TPWRGT
+-- Compiling architecture X_IBUF_INTERMDISABLE_TPWRGT_V of X_IBUF_INTERMDISABLE_TPWRGT
+-- Compiling entity X_ICAPE2
+-- Compiling architecture X_ICAPE2_V of X_ICAPE2
+-- Compiling entity X_IDELAYE2
+-- Compiling architecture X_IDELAYE2_V of X_IDELAYE2
+-- Compiling entity X_IDELAYE2_FINEDELAY
+-- Compiling architecture X_IDELAYE2_FINEDELAY_V of X_IDELAYE2_FINEDELAY
+-- Compiling entity X_IOBUFDS_DCIEN
+-- Compiling architecture X_IOBUFDS_DCIEN_V of X_IOBUFDS_DCIEN
+-- Compiling entity X_IOBUFDS_DIFF_OUT_DCIEN
+-- Compiling architecture X_IOBUFDS_DIFF_OUT_DCIEN_V of X_IOBUFDS_DIFF_OUT_DCIEN
+-- Compiling entity X_IOBUF_DCIEN
+-- Compiling architecture X_IOBUF_DCIEN_V of X_IOBUF_DCIEN
+-- Compiling entity X_JTAG_SIME2_SUBMOD
+-- Compiling architecture X_JTAG_SIME2_SUBMOD_V of X_JTAG_SIME2_SUBMOD
+-- Compiling entity X_JTAG_SIME2
+-- Compiling architecture X_JTAG_SIME2_V of X_JTAG_SIME2
+-- Compiling entity X_JTAG_SIM_E2
+-- Compiling architecture X_JTAG_SIM_E2_V of X_JTAG_SIM_E2
+-- Compiling entity X_MMCME2_ADV
+-- Compiling architecture X_MMCME2_ADV_V of X_MMCME2_ADV
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Compiling entity X_OBUFTDS_DCIEN
+-- Compiling architecture X_OBUFTDS_DCIEN_V of X_OBUFTDS_DCIEN
+-- Compiling entity X_OBUFT_DCIEN
+-- Compiling architecture X_OBUFT_DCIEN_V of X_OBUFT_DCIEN
+-- Loading package std_logic_arith
+-- Loading package VCOMPONENTS
+-- Loading package VPACKAGE
+-- Compiling entity X_ODELAYE2
+-- Compiling architecture X_ODELAYE2_V of X_ODELAYE2
+-- Compiling entity X_ODELAYE2_FINEDELAY
+-- Compiling architecture X_ODELAYE2_FINEDELAY_V of X_ODELAYE2_FINEDELAY
+-- Loading package NUMERIC_STD
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package std_logic_textio
+-- Compiling entity X_PHASER_REF
+-- Compiling architecture X_PHASER_REF_V of X_PHASER_REF
+-- Compiling entity X_PLLE2_ADV
+-- Compiling architecture X_PLLE2_ADV_V of X_PLLE2_ADV
+-- Compiling entity X_SIM_CONFIGE2
+-- Compiling architecture X_SIM_CONFIGE2_V of X_SIM_CONFIGE2
+-- Compiling entity X_STARTUPE2
+-- Compiling architecture X_STARTUPE2_V of X_STARTUPE2
+-- Compiling entity X_USR_ACCESSE2
+-- Compiling architecture X_USR_ACCESSE2_V of X_USR_ACCESSE2
+-- Compiling entity X_XADC
+-- Compiling architecture X_XADC_V of X_XADC
+-- Compiling entity X_ZHOLD_DELAY
+-- Compiling architecture X_ZHOLD_DELAY_V of X_ZHOLD_DELAY
+-- Compiling entity X_PS7
+-- Compiling architecture X_PS7_V of X_PS7
+-- Compiling entity X_AFIFO36_INTERNAL
+-- Compiling architecture X_AFIFO36_INTERNAL_V of X_AFIFO36_INTERNAL
+-- Compiling entity X_ARAMB36_INTERNAL
+-- Compiling architecture X_ARAMB36_INTERNAL_V of X_ARAMB36_INTERNAL
+-- Compiling entity X_BSCAN_VIRTEX5
+-- Compiling architecture X_BSCAN_VIRTEX5_V of X_BSCAN_VIRTEX5
+-- Compiling entity X_CARRY4
+-- Compiling architecture X_CARRY4_V of X_CARRY4
+-- Compiling entity X_CRC32
+-- Compiling architecture X_CRC32_V of X_CRC32
+-- Compiling entity X_CRC64
+-- Compiling architecture X_CRC64_V of X_CRC64
+-- Compiling entity X_DSP48E
+-- Compiling architecture X_DSP48E_V of X_DSP48E
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VCOMPONENTS
+-- Loading package VITAL_Primitives
+-- Loading package VPACKAGE
+-- Compiling entity X_FIFO18
+-- Compiling architecture X_FIFO18_V of X_FIFO18
+-- Compiling entity X_FIFO18_36
+-- Compiling architecture X_FIFO18_36_V of X_FIFO18_36
+-- Compiling entity X_FIFO36_72_EXP
+-- Compiling architecture X_FIFO36_72_EXP_V of X_FIFO36_72_EXP
+-- Compiling entity X_FIFO36_EXP
+-- Compiling architecture X_FIFO36_EXP_V of X_FIFO36_EXP
+-- Compiling entity X_IDDR_2CLK
+-- Compiling architecture X_IDDR_2CLK_V of X_IDDR_2CLK
+-- Compiling entity X_IODELAY
+-- Compiling architecture X_IODELAY_V of X_IODELAY
+-- Loading package std_logic_arith
+-- Compiling entity bscntrl_nodelay
+-- Compiling architecture bscntrl_nodelay_V of bscntrl_nodelay
+-- Compiling entity ice_module_nodelay
+-- Compiling architecture ice_module_nodelay_V of ice_module_nodelay
+-- Compiling entity X_ISERDES_NODELAY
+-- Compiling architecture X_ISERDES_NODELAY_V of X_ISERDES_NODELAY
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Compiling entity X_JTAG_SIM_VIRTEX5_SUBMOD
+-- Compiling architecture X_JTAG_SIM_VIRTEX5_SUBMOD_V of X_JTAG_SIM_VIRTEX5_SUBMOD
+-- Compiling entity X_JTAG_SIM_VIRTEX5
+-- Compiling architecture X_JTAG_SIM_VIRTEX5_V of X_JTAG_SIM_VIRTEX5
+-- Compiling entity X_LUT6_2
+-- Compiling architecture X_LUT6_2_V of X_LUT6_2
+-- Loading package NUMERIC_STD
+-- Compiling entity X_PLL_ADV
+-- Compiling architecture X_PLL_ADV_V of X_PLL_ADV
+-- Compiling entity X_RAM32M
+-- Compiling architecture X_RAM32M_V of X_RAM32M
+-- Compiling entity X_RAM64M
+-- Compiling architecture X_RAM64M_V of X_RAM64M
+-- Compiling entity X_RAMB18
+-- Compiling architecture X_RAMB18_V of X_RAMB18
+-- Compiling entity X_RAMB18SDP
+-- Compiling architecture X_RAMB18SDP_V of X_RAMB18SDP
+-- Compiling entity X_RAMB36SDP_EXP
+-- Compiling architecture X_RAMB36SDP_EXP_V of X_RAMB36SDP_EXP
+-- Compiling entity X_RAMB36_EXP
+-- Compiling architecture X_RAMB36_EXP_V of X_RAMB36_EXP
+-- Compiling entity X_RAMD128
+-- Compiling architecture X_RAMD128_V of X_RAMD128
+-- Compiling entity X_RAMD64_ADV
+-- Compiling architecture X_RAMD64_ADV_V of X_RAMD64_ADV
+-- Compiling entity X_RAMS256
+-- Compiling architecture X_RAMS256_V of X_RAMS256
+-- Compiling entity X_RAMS64_ADV
+-- Compiling architecture X_RAMS64_ADV_V of X_RAMS64_ADV
+-- Compiling entity X_SIM_CONFIG_V5
+-- Compiling architecture X_SIM_CONFIG_V5_V of X_SIM_CONFIG_V5
+-- Compiling entity X_SIM_CONFIG_V5_SERIAL
+-- Compiling architecture X_SIM_CONFIG_V5_SERIAL_V of X_SIM_CONFIG_V5_SERIAL
+-- Compiling entity X_SRLC32E
+-- Compiling architecture X_SRLC32E_V of X_SRLC32E
+-- Compiling entity X_STARTUP_VIRTEX5
+-- Compiling architecture X_STARTUP_VIRTEX5_V of X_STARTUP_VIRTEX5
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity X_SYSMON
+-- Compiling architecture X_SYSMON_V of X_SYSMON
+-- Compiling entity X_DSP48A
+-- Compiling architecture X_DSP48A_V of X_DSP48A
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package std_logic_textio
+-- Loading package VITAL_Timing
+-- Loading package VCOMPONENTS
+-- Loading package VITAL_Primitives
+-- Loading package VPACKAGE
+-- Compiling entity X_RAMB16BWER
+-- Compiling architecture X_RAMB16BWER_V of X_RAMB16BWER
+-- Compiling entity X_AND16
+-- Compiling architecture X_AND16_V of X_AND16
+-- Compiling entity X_AND2
+-- Compiling architecture X_AND2_V of X_AND2
+-- Compiling entity X_AND3
+-- Compiling architecture X_AND3_V of X_AND3
+-- Compiling entity X_AND32
+-- Compiling architecture X_AND32_V of X_AND32
+-- Compiling entity X_AND4
+-- Compiling architecture X_AND4_V of X_AND4
+-- Compiling entity X_AND5
+-- Compiling architecture X_AND5_V of X_AND5
+-- Compiling entity X_AND6
+-- Compiling architecture X_AND6_V of X_AND6
+-- Compiling entity X_AND7
+-- Compiling architecture X_AND7_V of X_AND7
+-- Compiling entity X_AND8
+-- Compiling architecture X_AND8_V of X_AND8
+-- Compiling entity X_AND9
+-- Compiling architecture X_AND9_V of X_AND9
+-- Compiling entity X_BPAD
+-- Compiling architecture X_BPAD_V of X_BPAD
+-- Compiling entity X_BSCAN_FPGACORE
+-- Compiling architecture X_BSCAN_FPGACORE_V of X_BSCAN_FPGACORE
+-- Compiling entity X_BSCAN_SPARTAN3
+-- Compiling architecture X_BSCAN_SPARTAN3_V of X_BSCAN_SPARTAN3
+-- Compiling entity X_BUF
+-- Compiling architecture X_BUF_V of X_BUF
+-- Compiling entity X_BUFGMUX
+-- Compiling architecture X_BUFGMUX_V of X_BUFGMUX
+-- Compiling entity X_BUFGMUX_1
+-- Compiling architecture X_BUFGMUX_1_V of X_BUFGMUX_1
+-- Compiling entity X_CKBUF
+-- Compiling architecture X_CKBUF_V of X_CKBUF
+-- Compiling entity x_clkdll_maximum_period_check
+-- Compiling architecture x_clkdll_maximum_period_check_V of x_clkdll_maximum_period_check
+-- Compiling entity X_CLKDLL
+-- Compiling architecture X_CLKDLL_V of X_CLKDLL
+-- Compiling entity x_clkdlle_maximum_period_check
+-- Compiling architecture x_clkdlle_maximum_period_check_V of x_clkdlle_maximum_period_check
+-- Compiling entity X_CLKDLLE
+-- Compiling architecture X_CLKDLLE_V of X_CLKDLLE
+-- Compiling entity X_CLK_DIV
+-- Compiling architecture X_CLK_DIV_V of X_CLK_DIV
+-- Compiling entity x_dcm_clock_divide_by_2
+-- Compiling architecture x_dcm_clock_divide_by_2_V of x_dcm_clock_divide_by_2
+-- Compiling entity x_dcm_maximum_period_check
+-- Compiling architecture x_dcm_maximum_period_check_V of x_dcm_maximum_period_check
+-- Compiling entity x_dcm_clock_lost
+-- Compiling architecture x_dcm_clock_lost_V of x_dcm_clock_lost
+-- Compiling entity X_DCM
+-- Compiling architecture X_DCM_V of X_DCM
+-- Compiling entity x_dcm_sp_clock_divide_by_2
+-- Compiling architecture x_dcm_sp_clock_divide_by_2_V of x_dcm_sp_clock_divide_by_2
+-- Compiling entity x_dcm_sp_maximum_period_check
+-- Compiling architecture x_dcm_sp_maximum_period_check_V of x_dcm_sp_maximum_period_check
+-- Compiling entity x_dcm_sp_clock_lost
+-- Compiling architecture x_dcm_sp_clock_lost_V of x_dcm_sp_clock_lost
+-- Compiling entity X_DCM_SP
+-- Compiling architecture X_DCM_SP_V of X_DCM_SP
+-- Compiling entity X_FDD
+-- Compiling architecture X_FDD_V of X_FDD
+-- Compiling entity X_FDDRCPE
+-- Compiling architecture X_FDDRCPE_V of X_FDDRCPE
+-- Compiling entity X_FDDRRSE
+-- Compiling architecture X_FDDRRSE_V of X_FDDRRSE
+-- Compiling entity X_FF
+-- Compiling architecture X_FF_V of X_FF
+-- Compiling entity X_FF_CPLD
+-- Compiling architecture X_FF_CPLD_V of X_FF_CPLD
+-- Compiling entity X_IBUFDS
+-- Compiling architecture X_IBUFDS_V of X_IBUFDS
+-- Compiling entity X_INV
+-- Compiling architecture X_INV_V of X_INV
+-- Compiling entity X_IPAD
+-- Compiling architecture X_IPAD_V of X_IPAD
+-- Compiling entity X_KEEPER
+-- Compiling architecture X_KEEPER_V of X_KEEPER
+-- Compiling entity X_LATCH
+-- Compiling architecture X_LATCH_V of X_LATCH
+-- Compiling entity X_LATCHE
+-- Compiling architecture X_LATCHE_V of X_LATCHE
+-- Compiling entity X_LATCH_CPLD
+-- Compiling architecture X_LATCH_CPLD_V of X_LATCH_CPLD
+-- Compiling entity X_LUT2
+-- Compiling architecture X_LUT2_V of X_LUT2
+-- Compiling entity X_LUT3
+-- Compiling architecture X_LUT3_V of X_LUT3
+-- Compiling entity X_LUT4
+-- Compiling architecture X_LUT4_V of X_LUT4
+-- Compiling entity X_LUT5
+-- Compiling architecture X_LUT5_V of X_LUT5
+-- Compiling entity X_LUT6
+-- Compiling architecture X_LUT6_V of X_LUT6
+-- Compiling entity X_LUT7
+-- Compiling architecture X_LUT7_V of X_LUT7
+-- Compiling entity X_LUT8
+-- Compiling architecture X_LUT8_V of X_LUT8
+-- Compiling entity X_MULT18X18
+-- Compiling architecture X_MULT18X18_V of X_MULT18X18
+-- Compiling entity X_MULT18X18S
+-- Compiling architecture X_MULT18X18S_V of X_MULT18X18S
+-- Compiling entity X_MUX2
+-- Compiling architecture X_MUX2_V of X_MUX2
+-- Compiling entity X_OBUF
+-- Compiling architecture X_OBUF_V of X_OBUF
+-- Compiling entity X_OBUFDS
+-- Compiling architecture X_OBUFDS_V of X_OBUFDS
+-- Compiling entity X_OBUFT
+-- Compiling architecture X_OBUFT_V of X_OBUFT
+-- Compiling entity X_OBUFTDS
+-- Compiling architecture X_OBUFTDS_V of X_OBUFTDS
+-- Compiling entity X_ONE
+-- Compiling architecture X_ONE_V of X_ONE
+-- Compiling entity X_OPAD
+-- Compiling architecture X_OPAD_V of X_OPAD
+-- Compiling entity X_OR16
+-- Compiling architecture X_OR16_V of X_OR16
+-- Compiling entity X_OR2
+-- Compiling architecture X_OR2_V of X_OR2
+-- Compiling entity X_OR3
+-- Compiling architecture X_OR3_V of X_OR3
+-- Compiling entity X_OR32
+-- Compiling architecture X_OR32_V of X_OR32
+-- Compiling entity X_OR4
+-- Compiling architecture X_OR4_V of X_OR4
+-- Compiling entity X_OR5
+-- Compiling architecture X_OR5_V of X_OR5
+-- Compiling entity X_OR6
+-- Compiling architecture X_OR6_V of X_OR6
+-- Compiling entity X_OR7
+-- Compiling architecture X_OR7_V of X_OR7
+-- Compiling entity X_OR8
+-- Compiling architecture X_OR8_V of X_OR8
+-- Compiling entity X_OR9
+-- Compiling architecture X_OR9_V of X_OR9
+-- Compiling entity X_PD
+-- Compiling architecture X_PD_V of X_PD
+-- Compiling entity X_PU
+-- Compiling architecture X_PU_V of X_PU
+-- Compiling entity X_RAMB16_S1
+-- Compiling architecture X_RAMB16_S1_V of X_RAMB16_S1
+-- Compiling entity X_RAMB16_S18
+-- Compiling architecture X_RAMB16_S18_V of X_RAMB16_S18
+-- Compiling entity X_RAMB16_S18_S18
+-- Compiling architecture X_RAMB16_S18_S18_V of X_RAMB16_S18_S18
+-- Compiling entity X_RAMB16_S18_S36
+-- Compiling architecture X_RAMB16_S18_S36_V of X_RAMB16_S18_S36
+-- Compiling entity X_RAMB16_S1_S1
+-- Compiling architecture X_RAMB16_S1_S1_V of X_RAMB16_S1_S1
+-- Compiling entity X_RAMB16_S1_S18
+-- Compiling architecture X_RAMB16_S1_S18_V of X_RAMB16_S1_S18
+-- Compiling entity X_RAMB16_S1_S2
+-- Compiling architecture X_RAMB16_S1_S2_V of X_RAMB16_S1_S2
+-- Compiling entity X_RAMB16_S1_S36
+-- Compiling architecture X_RAMB16_S1_S36_V of X_RAMB16_S1_S36
+-- Compiling entity X_RAMB16_S1_S4
+-- Compiling architecture X_RAMB16_S1_S4_V of X_RAMB16_S1_S4
+-- Compiling entity X_RAMB16_S1_S9
+-- Compiling architecture X_RAMB16_S1_S9_V of X_RAMB16_S1_S9
+-- Compiling entity X_RAMB16_S2
+-- Compiling architecture X_RAMB16_S2_V of X_RAMB16_S2
+-- Compiling entity X_RAMB16_S2_S18
+-- Compiling architecture X_RAMB16_S2_S18_V of X_RAMB16_S2_S18
+-- Compiling entity X_RAMB16_S2_S2
+-- Compiling architecture X_RAMB16_S2_S2_V of X_RAMB16_S2_S2
+-- Compiling entity X_RAMB16_S2_S36
+-- Compiling architecture X_RAMB16_S2_S36_V of X_RAMB16_S2_S36
+-- Compiling entity X_RAMB16_S2_S4
+-- Compiling architecture X_RAMB16_S2_S4_V of X_RAMB16_S2_S4
+-- Compiling entity X_RAMB16_S2_S9
+-- Compiling architecture X_RAMB16_S2_S9_V of X_RAMB16_S2_S9
+-- Compiling entity X_RAMB16_S36
+-- Compiling architecture X_RAMB16_S36_V of X_RAMB16_S36
+-- Compiling entity X_RAMB16_S36_S36
+-- Compiling architecture X_RAMB16_S36_S36_V of X_RAMB16_S36_S36
+-- Compiling entity X_RAMB16_S4
+-- Compiling architecture X_RAMB16_S4_V of X_RAMB16_S4
+-- Compiling entity X_RAMB16_S4_S18
+-- Compiling architecture X_RAMB16_S4_S18_V of X_RAMB16_S4_S18
+-- Compiling entity X_RAMB16_S4_S36
+-- Compiling architecture X_RAMB16_S4_S36_V of X_RAMB16_S4_S36
+-- Compiling entity X_RAMB16_S4_S4
+-- Loading package STANDARD
+-- Compiling architecture X_RAMB16_S4_S4_V of X_RAMB16_S4_S4
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package VPACKAGE
+-- Loading package VCOMPONENTS
+-- Loading entity X_RAMB16_S4_S4
+-- Compiling entity X_RAMB16_S4_S9
+-- Compiling architecture X_RAMB16_S4_S9_V of X_RAMB16_S4_S9
+-- Compiling entity X_RAMB16_S9
+-- Compiling architecture X_RAMB16_S9_V of X_RAMB16_S9
+-- Compiling entity X_RAMB16_S9_S18
+-- Compiling architecture X_RAMB16_S9_S18_V of X_RAMB16_S9_S18
+-- Compiling entity X_RAMB16_S9_S36
+-- Compiling architecture X_RAMB16_S9_S36_V of X_RAMB16_S9_S36
+-- Compiling entity X_RAMB16_S9_S9
+-- Compiling architecture X_RAMB16_S9_S9_V of X_RAMB16_S9_S9
+-- Compiling entity X_RAMB4_S1
+-- Compiling architecture X_RAMB4_S1_V of X_RAMB4_S1
+-- Compiling entity X_RAMB4_S16
+-- Compiling architecture X_RAMB4_S16_V of X_RAMB4_S16
+-- Compiling entity X_RAMB4_S16_S16
+-- Compiling architecture X_RAMB4_S16_S16_V of X_RAMB4_S16_S16
+-- Compiling entity X_RAMB4_S1_S1
+-- Compiling architecture X_RAMB4_S1_S1_V of X_RAMB4_S1_S1
+-- Compiling entity X_RAMB4_S1_S16
+-- Compiling architecture X_RAMB4_S1_S16_V of X_RAMB4_S1_S16
+-- Compiling entity X_RAMB4_S1_S2
+-- Compiling architecture X_RAMB4_S1_S2_V of X_RAMB4_S1_S2
+-- Compiling entity X_RAMB4_S1_S4
+-- Compiling architecture X_RAMB4_S1_S4_V of X_RAMB4_S1_S4
+-- Compiling entity X_RAMB4_S1_S8
+-- Compiling architecture X_RAMB4_S1_S8_V of X_RAMB4_S1_S8
+-- Compiling entity X_RAMB4_S2
+-- Compiling architecture X_RAMB4_S2_V of X_RAMB4_S2
+-- Compiling entity X_RAMB4_S2_S16
+-- Compiling architecture X_RAMB4_S2_S16_V of X_RAMB4_S2_S16
+-- Compiling entity X_RAMB4_S2_S2
+-- Compiling architecture X_RAMB4_S2_S2_V of X_RAMB4_S2_S2
+-- Compiling entity X_RAMB4_S2_S4
+-- Compiling architecture X_RAMB4_S2_S4_V of X_RAMB4_S2_S4
+-- Compiling entity X_RAMB4_S2_S8
+-- Compiling architecture X_RAMB4_S2_S8_V of X_RAMB4_S2_S8
+-- Compiling entity X_RAMB4_S4
+-- Compiling architecture X_RAMB4_S4_V of X_RAMB4_S4
+-- Compiling entity X_RAMB4_S4_S16
+-- Compiling architecture X_RAMB4_S4_S16_V of X_RAMB4_S4_S16
+-- Compiling entity X_RAMB4_S4_S4
+-- Compiling architecture X_RAMB4_S4_S4_V of X_RAMB4_S4_S4
+-- Compiling entity X_RAMB4_S4_S8
+-- Compiling architecture X_RAMB4_S4_S8_V of X_RAMB4_S4_S8
+-- Compiling entity X_RAMB4_S8
+-- Compiling architecture X_RAMB4_S8_V of X_RAMB4_S8
+-- Compiling entity X_RAMB4_S8_S16
+-- Compiling architecture X_RAMB4_S8_S16_V of X_RAMB4_S8_S16
+-- Compiling entity X_RAMB4_S8_S8
+-- Compiling architecture X_RAMB4_S8_S8_V of X_RAMB4_S8_S8
+-- Compiling entity X_RAMD16
+-- Compiling architecture X_RAMD16_V of X_RAMD16
+-- Compiling entity X_RAMD32
+-- Compiling architecture X_RAMD32_V of X_RAMD32
+-- Compiling entity X_RAMD64
+-- Compiling architecture X_RAMD64_V of X_RAMD64
+-- Compiling entity X_RAMS128
+-- Compiling architecture X_RAMS128_V of X_RAMS128
+-- Compiling entity X_RAMS16
+-- Compiling architecture X_RAMS16_V of X_RAMS16
+-- Compiling entity X_RAMS32
+-- Compiling architecture X_RAMS32_V of X_RAMS32
+-- Compiling entity X_RAMS64
+-- Compiling architecture X_RAMS64_V of X_RAMS64
+-- Compiling entity X_ROC
+-- Compiling architecture X_ROC_V of X_ROC
+-- Compiling entity X_ROCBUF
+-- Compiling architecture X_ROCBUF_V of X_ROCBUF
+-- Compiling entity X_SFF
+-- Compiling architecture X_SFF_V of X_SFF
+-- Compiling entity X_SRL16E
+-- Compiling architecture X_SRL16E_V of X_SRL16E
+-- Compiling entity X_SRLC16E
+-- Compiling architecture X_SRLC16E_V of X_SRLC16E
+-- Compiling entity X_STARTUP_FPGACORE
+-- Compiling architecture X_STARTUP_FPGACORE_V of X_STARTUP_FPGACORE
+-- Compiling entity X_STARTUP_SPARTAN3
+-- Compiling architecture X_STARTUP_SPARTAN3_V of X_STARTUP_SPARTAN3
+-- Compiling entity X_SUH
+-- Compiling architecture X_SUH_V of X_SUH
+-- Compiling entity X_TOC
+-- Compiling architecture X_TOC_V of X_TOC
+-- Compiling entity X_TOCBUF
+-- Compiling architecture X_TOCBUF_V of X_TOCBUF
+-- Compiling entity X_TRI
+-- Compiling architecture X_TRI_V of X_TRI
+-- Compiling entity X_UPAD
+-- Compiling architecture X_UPAD_V of X_UPAD
+-- Compiling entity X_XOR16
+-- Compiling architecture X_XOR16_V of X_XOR16
+-- Compiling entity X_XOR2
+-- Compiling architecture X_XOR2_V of X_XOR2
+-- Compiling entity X_XOR3
+-- Compiling architecture X_XOR3_V of X_XOR3
+-- Compiling entity X_XOR32
+-- Compiling architecture X_XOR32_V of X_XOR32
+-- Compiling entity X_XOR4
+-- Compiling architecture X_XOR4_V of X_XOR4
+-- Compiling entity X_XOR5
+-- Compiling architecture X_XOR5_V of X_XOR5
+-- Compiling entity X_XOR6
+-- Compiling architecture X_XOR6_V of X_XOR6
+-- Compiling entity X_XOR7
+-- Compiling architecture X_XOR7_V of X_XOR7
+-- Compiling entity X_XOR8
+-- Compiling architecture X_XOR8_V of X_XOR8
+-- Compiling entity X_ZERO
+-- Compiling architecture X_ZERO_V of X_ZERO
+-- Compiling entity X_IDDR2
+-- Compiling architecture X_IDDR2_V of X_IDDR2
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity X_MULT18X18SIO
+-- Compiling architecture X_MULT18X18SIO_V of X_MULT18X18SIO
+-- Compiling entity X_ODDR2
+-- Compiling architecture X_ODDR2_V of X_ODDR2
+-- Compiling entity X_STARTUP_SPARTAN3E
+-- Compiling architecture X_STARTUP_SPARTAN3E_V of X_STARTUP_SPARTAN3E
+-- Compiling entity X_BSCAN_SPARTAN6
+-- Compiling architecture X_BSCAN_SPARTAN6_V of X_BSCAN_SPARTAN6
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity X_BUFIO2
+-- Compiling architecture X_BUFIO2_V of X_BUFIO2
+-- Compiling entity X_BUFIO2FB
+-- Compiling architecture X_BUFIO2FB_V of X_BUFIO2FB
+-- Compiling entity X_BUFIO2_2CLK
+-- Compiling architecture X_BUFIO2_2CLK_V of X_BUFIO2_2CLK
+-- Compiling entity X_BUFPLL
+-- Compiling architecture X_BUFPLL_V of X_BUFPLL
+-- Compiling entity X_BUFPLL_MCB
+-- Compiling architecture X_BUFPLL_MCB_V of X_BUFPLL_MCB
+-- Loading package NUMERIC_STD
+-- Compiling entity X_DCM_CLKGEN
+-- Compiling architecture X_DCM_CLKGEN_V of X_DCM_CLKGEN
+-- Compiling entity X_DSP48A1
+-- Compiling architecture X_DSP48A1_V of X_DSP48A1
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package NUMERIC_STD
+-- Loading package VITAL_Timing
+-- Loading package VCOMPONENTS
+-- Loading package VITAL_Primitives
+-- Loading package VPACKAGE
+-- Compiling entity X_ICAP_SPARTAN6
+-- Compiling architecture X_ICAP_SPARTAN6_V of X_ICAP_SPARTAN6
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity X_IODELAY2
+-- Compiling architecture X_IODELAY2_V of X_IODELAY2
+-- Compiling entity X_IODRP2
+-- Compiling architecture X_IODRP2_V of X_IODRP2
+-- Compiling entity X_IODRP2_MCB
+-- Compiling architecture X_IODRP2_MCB_V of X_IODRP2_MCB
+-- Loading package std_logic_textio
+-- Compiling entity X_ISERDES2
+-- Compiling architecture X_ISERDES2_V of X_ISERDES2
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Compiling entity X_JTAG_SIM_SPARTAN6
+-- Compiling architecture X_JTAG_SIM_SPARTAN6_V of X_JTAG_SIM_SPARTAN6
+-- Compiling entity X_OSERDES2
+-- Compiling architecture X_OSERDES2_V of X_OSERDES2
+-- Compiling entity X_POST_CRC_INTERNAL
+-- Compiling architecture X_POST_CRC_INTERNAL_V of X_POST_CRC_INTERNAL
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity X_RAMB8BWER
+-- Compiling architecture X_RAMB8BWER_V of X_RAMB8BWER
+-- Compiling entity X_SIM_CONFIG_S6
+-- Compiling architecture X_SIM_CONFIG_S6_V of X_SIM_CONFIG_S6
+-- Compiling entity X_SIM_CONFIG_S6_SERIAL
+-- Compiling architecture X_SIM_CONFIG_S6_SERIAL_V of X_SIM_CONFIG_S6_SERIAL
+-- Compiling entity X_STARTUP_SPARTAN6
+-- Compiling architecture X_STARTUP_SPARTAN6_V of X_STARTUP_SPARTAN6
+-- Compiling entity X_SUSPEND_SYNC
+-- Compiling architecture X_SUSPEND_SYNC_V of X_SUSPEND_SYNC
+-- Compiling entity X_BSCAN_SPARTAN3A
+-- Compiling architecture X_BSCAN_SPARTAN3A_V of X_BSCAN_SPARTAN3A
+-- Compiling entity X_DNA_PORT
+-- Compiling architecture X_DNA_PORT_V of X_DNA_PORT
+-- Compiling entity X_IBUFDS_DLY_ADJ
+-- Compiling architecture X_IBUFDS_DLY_ADJ_V of X_IBUFDS_DLY_ADJ
+-- Compiling entity X_IBUF_DLY_ADJ
+-- Compiling architecture X_IBUF_DLY_ADJ_V of X_IBUF_DLY_ADJ
+-- Compiling entity X_JTAG_SIM_SPARTAN3A
+-- Compiling architecture X_JTAG_SIM_SPARTAN3A_V of X_JTAG_SIM_SPARTAN3A
+-- Compiling entity X_RAMB16BWE
+-- Compiling architecture X_RAMB16BWE_V of X_RAMB16BWE
+-- Compiling entity X_SIM_CONFIG_S3A
+-- Compiling architecture X_SIM_CONFIG_S3A_V of X_SIM_CONFIG_S3A
+-- Compiling entity X_SIM_CONFIG_S3A_SERIAL
+-- Compiling architecture X_SIM_CONFIG_S3A_SERIAL_V of X_SIM_CONFIG_S3A_SERIAL
+-- Compiling entity X_SPI_ACCESS
+-- Compiling architecture X_SPI_ACCESS_V of X_SPI_ACCESS
+-- Compiling entity X_STARTUP_SPARTAN3A
+-- Compiling architecture X_STARTUP_SPARTAN3A_V of X_STARTUP_SPARTAN3A
+-- Compiling entity X_BSCAN_VIRTEX4
+-- Compiling architecture X_BSCAN_VIRTEX4_V of X_BSCAN_VIRTEX4
+-- Compiling entity X_BUFGCTRL
+-- Compiling architecture X_BUFGCTRL_V of X_BUFGCTRL
+-- Compiling entity x_dcm_adv_clock_divide_by_2
+-- Compiling architecture x_dcm_adv_clock_divide_by_2_V of x_dcm_adv_clock_divide_by_2
+-- Compiling entity x_dcm_adv_maximum_period_check
+-- Compiling architecture x_dcm_adv_maximum_period_check_V of x_dcm_adv_maximum_period_check
+-- Compiling entity x_dcm_adv_clock_lost
+-- Compiling architecture x_dcm_adv_clock_lost_V of x_dcm_adv_clock_lost
+-- Compiling entity X_DCM_ADV
+-- Compiling architecture X_DCM_ADV_V of X_DCM_ADV
+-- Compiling entity X_DSP48
+-- Compiling architecture X_DSP48_V of X_DSP48
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package VITAL_Timing
+-- Loading package VCOMPONENTS
+-- Loading package VITAL_Primitives
+-- Loading package VPACKAGE
+-- Compiling entity X_FIFO16
+-- Compiling architecture X_FIFO16_V of X_FIFO16
+-- Compiling entity X_IDDR
+-- Compiling architecture X_IDDR_V of X_IDDR
+-- Compiling entity X_IDELAY
+-- Compiling architecture X_IDELAY_V of X_IDELAY
+-- Compiling entity X_IDELAYCTRL
+-- Compiling architecture X_IDELAYCTRL_V of X_IDELAYCTRL
+-- Compiling entity bscntrl
+-- Compiling architecture bscntrl_V of bscntrl
+-- Compiling entity ice_module
+-- Compiling architecture ice_V of ice_module
+-- Compiling entity X_ISERDES
+-- Compiling architecture X_ISERDES_V of X_ISERDES
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Compiling entity X_JTAG_SIM_VIRTEX4_SUBMOD
+-- Compiling architecture X_JTAG_SIM_VIRTEX4_SUBMOD_V of X_JTAG_SIM_VIRTEX4_SUBMOD
+-- Compiling entity X_JTAG_SIM_VIRTEX4
+-- Compiling architecture X_JTAG_SIM_VIRTEX4_V of X_JTAG_SIM_VIRTEX4
+-- Compiling entity X_ODDR
+-- Compiling architecture X_ODDR_V of X_ODDR
+-- Compiling entity X_PLG
+-- Compiling architecture X_PLG_V of X_PLG
+-- Compiling entity X_IOOUT
+-- Compiling architecture X_IOOUT_V of X_IOOUT
+-- Compiling entity X_IOT
+-- Compiling architecture X_IOT_V of X_IOT
+-- Compiling entity X_OSERDES
+-- Compiling architecture X_OSERDES_V of X_OSERDES
+-- Compiling entity X_PMCD
+-- Compiling architecture X_PMCD_V of X_PMCD
+-- Compiling entity X_RAMB16
+-- Compiling architecture X_RAMB16_V of X_RAMB16
+-- Compiling entity X_STARTUP_VIRTEX4
+-- Compiling architecture X_STARTUP_VIRTEX4_V of X_STARTUP_VIRTEX4
+-- Compiling entity X_IBUFDS_GTHE1
+-- Compiling architecture X_IBUFDS_GTHE1_V of X_IBUFDS_GTHE1
+

@@ -1,0 +1,17 @@
+CxlResult:C:\Xilinx\14.1\ISE_DS\ISE\vhdl\mti_se\10.1c\nt/simprim/.cxl.vhdl.simprim.simprim.nt.rpt =
+	ExecutionPlatform = nt ,
+	SourceLibrary = simprim ,
+	SourcePath = C:/Xilinx/14.1/ISE_DS/ISE/vhdl/src/simprims ,
+	Simulator = mti_se ,
+	SimulatorVersion = 10.1c ,
+	CompiledLibrary = simprim ,
+	CompiledPath = C:\Xilinx\14.1\ISE_DS\ISE\vhdl\mti_se\10.1c\nt/simprim ,
+	Timestamp = Sat Oct 29 21:47:50 2022 ,
+	Time = 1667051270 ,
+	Language = vhdl ,
+	XilinxBuildNumber = P.15xf ,
+	XilinxVersion = 14.1 ,
+	LogFile = C:\Xilinx\14.1\ISE_DS\ISE\vhdl\mti_se\10.1c\nt/simprim/.cxl.vhdl.simprim.simprim.nt.log ,
+	NumOfErrors = 0 ,
+	NumOfWarnings = 0 ,
+
